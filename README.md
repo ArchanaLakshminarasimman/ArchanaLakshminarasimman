@@ -97,59 +97,152 @@ I am currently pursuing my Master's in Engineering Data Science at the Universit
 
 ### Programming
 
-<p>
-  <img src="https://archana-ai.vercel.app/tool-logos/Python.png" alt="Python" title="Python" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/sql.png" alt="SQL" title="SQL" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/R.png" alt="R" title="R" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/java.png" alt="Java" title="Java" width="52" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://archana-ai.vercel.app/tool-logos/Python.png" alt="Python" title="Python" height="44" /><br />
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://archana-ai.vercel.app/tool-logos/sql.png" alt="SQL" title="SQL" height="44" /><br />
+      <sub>SQL</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://archana-ai.vercel.app/tool-logos/R.png" alt="R" title="R" height="44" /><br />
+      <sub>R</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://archana-ai.vercel.app/tool-logos/java.png" alt="Java" title="Java" height="44" /><br />
+      <sub>Java</sub>
+    </td>
+  </tr>
+</table>
 
 ### Databases
 
-<p>
-  <img src="https://archana-ai.vercel.app/tool-logos/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/MySQL.png" alt="MySQL" title="MySQL" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/mongodb.png" alt="MongoDB" title="MongoDB" width="52" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL" height="44" /><br />
+      <sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/MySQL.png" alt="MySQL" title="MySQL" height="44" /><br />
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/mongodb.png" alt="MongoDB" title="MongoDB" height="44" /><br />
+      <sub>MongoDB</sub>
+    </td>
+  </tr>
+</table>
 
 ### Data & Visualization
 
-<p>
-  <img src="https://archana-ai.vercel.app/tool-logos/powerbi.png" alt="Power BI" title="Power BI" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/Tableau.png" alt="Tableau" title="Tableau" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/Matplotlib.png" alt="Matplotlib" title="Matplotlib" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/seaborn.png" alt="Seaborn" title="Seaborn" width="52" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/powerbi.png" alt="Power BI" title="Power BI" height="44" /><br />
+      <sub>Power BI</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/Tableau.png" alt="Tableau" title="Tableau" height="44" /><br />
+      <sub>Tableau</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/Matplotlib.png" alt="Matplotlib" title="Matplotlib" height="44" /><br />
+      <sub>Matplotlib</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/seaborn.png" alt="Seaborn" title="Seaborn" height="44" /><br />
+      <sub>Seaborn</sub>
+    </td>
+  </tr>
+</table>
 
 ### AI / Machine Learning
 
-<p>
-  <img src="https://archana-ai.vercel.app/tool-logos/pytorch.png" alt="PyTorch" title="PyTorch" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/Keras.png" alt="Keras" title="Keras" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/Scikit-learn.png" alt="Scikit-learn" title="Scikit-learn" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/huggingface.webp" alt="Hugging Face" title="Hugging Face" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/numpy.png" alt="NumPy" title="NumPy" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/pandas.png" alt="Pandas" title="Pandas" width="52" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/pytorch.png" alt="PyTorch" title="PyTorch" height="44" /><br />
+      <sub>PyTorch</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/tensorflow.png" alt="TensorFlow" title="TensorFlow" height="44" /><br />
+      <sub>TensorFlow</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/Keras.png" alt="Keras" title="Keras" height="44" /><br />
+      <sub>Keras</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/Scikit-learn.png" alt="Scikit-learn" title="Scikit-learn" height="44" /><br />
+      <sub>Scikit-learn</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/huggingface.webp" alt="Hugging Face" title="Hugging Face" height="44" /><br />
+      <sub>Hugging Face</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/numpy.png" alt="NumPy" title="NumPy" height="44" /><br />
+      <sub>NumPy</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/pandas.png" alt="Pandas" title="Pandas" height="44" /><br />
+      <sub>Pandas</sub>
+    </td>
+    <td align="center" width="110"></td>
+  </tr>
+</table>
 
 ### Data Engineering & Cloud
 
-<p>
-  <img src="https://archana-ai.vercel.app/tool-logos/pyspark.jpeg" alt="PySpark" title="PySpark" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/hadoop.png" alt="Hadoop" title="Hadoop" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/Docker.png" alt="Docker" title="Docker" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/aws.png" alt="AWS" title="AWS" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/gcp.png" alt="GCP" title="GCP" width="52" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/pyspark.jpeg" alt="PySpark" title="PySpark" height="44" /><br />
+      <sub>PySpark</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/hadoop.png" alt="Hadoop" title="Hadoop" height="44" /><br />
+      <sub>Hadoop</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/Docker.png" alt="Docker" title="Docker" height="44" /><br />
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/aws.png" alt="AWS" title="AWS" height="44" /><br />
+      <sub>AWS</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/gcp.png" alt="GCP" title="GCP" height="44" /><br />
+      <sub>GCP</sub>
+    </td>
+  </tr>
+</table>
 
 ### Collaboration
 
-<p>
-  <img src="https://archana-ai.vercel.app/tool-logos/Git.png" alt="Git" title="Git" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/jira.png" alt="Jira" title="Jira" width="52" />
-  <img src="https://archana-ai.vercel.app/tool-logos/confluence.jpg" alt="Confluence" title="Confluence" width="52" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/Git.png" alt="Git" title="Git" height="44" /><br />
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/jira.png" alt="Jira" title="Jira" height="44" /><br />
+      <sub>Jira</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://archana-ai.vercel.app/tool-logos/confluence.jpg" alt="Confluence" title="Confluence" height="44" /><br />
+      <sub>Confluence</sub>
+    </td>
+  </tr>
+</table>
 
 ## Education
 
