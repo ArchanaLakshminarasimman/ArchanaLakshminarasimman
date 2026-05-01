@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Archana Lakshminarasimman hero banner" width="100%" />
+  <img src="./assets/profile-hero-blue.svg" alt="Archana Lakshminarasimman hero banner" width="100%" />
 </p>
 
 <p align="center">

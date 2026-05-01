@@ -1,0 +1,56 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Archana Lakshminarasimman</title>
+  <desc id="desc">Hero banner for GitHub profile README</desc>
+  <defs>
+    <linearGradient id="bg" x1="76" y1="48" x2="1212" y2="328" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0F766E"/>
+      <stop offset="52%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(214 98) rotate(15) scale(334 212)">
+      <stop offset="0%" stop-color="#CCFBF1" stop-opacity="0.72"/>
+      <stop offset="100%" stop-color="#CCFBF1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 72) rotate(-12) scale(286 176)">
+      <stop offset="0%" stop-color="#BFDBFE" stop-opacity="0.36"/>
+      <stop offset="100%" stop-color="#BFDBFE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="waveFront" x1="46" y1="214" x2="1242" y2="296" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E0F2FE" stop-opacity="0.70"/>
+      <stop offset="100%" stop-color="#CFFAFE" stop-opacity="0.24"/>
+    </linearGradient>
+    <linearGradient id="waveBack" x1="90" y1="188" x2="1180" y2="262" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+    </linearGradient>
+    <clipPath id="cardClip">
+      <rect x="24" y="24" width="1232" height="312" rx="34"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <rect x="24" y="24" width="1232" height="312" rx="34" fill="url(#bg)"/>
+    <rect x="24" y="24" width="1232" height="312" rx="34" fill="#FFFFFF" fill-opacity="0.04"/>
+    <ellipse cx="238" cy="104" rx="304" ry="174" fill="url(#glowLeft)"/>
+    <ellipse cx="1014" cy="82" rx="254" ry="148" fill="url(#glowRight)"/>
+
+    <circle cx="1042" cy="108" r="110" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <circle cx="1042" cy="108" r="74" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <circle cx="1042" cy="108" r="38" stroke="#FFFFFF" stroke-opacity="0.10"/>
+
+    <path d="M24 244C160 228 302 214 472 230C610 244 736 280 896 270C1064 260 1162 226 1256 188V336H24V244Z" fill="url(#waveBack)"/>
+    <path d="M24 286C174 258 350 246 526 272C708 300 854 324 1026 296C1124 280 1200 254 1256 226V336H24V286Z" fill="url(#waveFront)"/>
+
+    <text x="640" y="148" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-1.2">
+      Archana Lakshminarasimman
+    </text>
+    <text x="640" y="196" text-anchor="middle" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">
+      Data Scientist | ML Engineer | GenAI Engineer
+    </text>
+    <text x="640" y="234" text-anchor="middle" fill="#DDF7FF" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="500">
+      From data pipelines to production-ready AI systems
+    </text>
+  </g>
+
+  <rect x="24.5" y="24.5" width="1231" height="311" rx="33.5" stroke="#FFFFFF" stroke-opacity="0.14"/>
+</svg>
