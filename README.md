@@ -1,11 +1,9 @@
 # Archana Lakshminarasimman
 
-![Archana Portfolio Banner](https://archana-ai.vercel.app/og-image.svg)
-
 <p align="center">
-  <strong>Data Scientist • ML Engineer • GenAI Engineer</strong>
+  <strong>Data Scientist | ML Engineer | GenAI Engineer</strong>
   <br />
-  Designing end-to-end AI systems from data to deployment
+  Building reliable ML systems, analytics workflows, and AI tools for real-world use
 </p>
 
 <p align="center">
@@ -18,13 +16,13 @@
 
 ## About Me
 
-I build AI systems that work in production, not just in notebooks.
+I enjoy turning messy, open-ended data problems into systems that people can actually use. For me, that usually means going beyond model building into data cleanup, pipeline design, evaluation, dashboards, and delivery.
 
-My work spans enterprise software at Temenos, biomedical NLP at Baylor College of Medicine, and large-scale analytics at the University of Houston. I focus on scalable ML pipelines, real-time analytics, and AI-driven decision systems with strong attention to reliability, evaluation, and usability for non-technical stakeholders.
+My background sits at the intersection of software engineering, analytics, and applied AI. I have worked on transaction monitoring systems in fintech, NLP workflows in biomedical research, and large-scale institutional analytics, which has made me especially interested in practical, production-facing machine learning.
 
-I am currently completing my Master's in Engineering Data Science at the University of Houston with a 4.0 GPA, and I am targeting roles in Data Science, Machine Learning, and Applied AI.
+I am currently pursuing my Master's in Engineering Data Science at the University of Houston with a 4.0 GPA. I am most excited by opportunities in data science, ML engineering, GenAI, and analytics engineering where strong technical work translates into clear business or user impact.
 
-## Snapshot
+## Quick Highlights
 
 | Area | Highlights |
 | --- | --- |
@@ -33,48 +31,48 @@ I am currently completing my Master's in Engineering Data Science at the Univers
 | Organizations | 4+ organizations across enterprise, healthcare, research, and academia |
 | Location | Houston, Texas |
 
-## Experience Highlights
+## Recent Experience
 
 - **Research Assistant - Data Analyst**, Office of Institutional Research, University of Houston  
-  Designed dashboards and analyzed 2M+ records to support executive decision-making across the university.  
+  Built executive-facing dashboards and analyzed 2M+ records to support planning and decision-making across the university.  
   `Power BI` `Tableau` `SQL` `SAS` `Python`
 
 - **Machine Learning Research Intern**, Baylor College of Medicine  
-  Built NLP pipelines and embedding workflows across 120K+ omics records, reducing manual curation time by 45%.  
+  Developed NLP and embedding workflows across 120K+ omics records and reduced manual curation effort by 45%.  
   `Python` `R` `GPT-4.1` `Gemini` `NLP` `Embeddings`
 
 - **Associate Product Engineer**, Temenos India Pvt. Ltd.  
-  Delivered 5 transaction monitoring systems and helped reduce production defects in regulated banking environments.  
+  Shipped 5 transaction monitoring solutions and helped improve quality in regulated banking environments.  
   `Java` `Temenos T24` `JBase` `SQL`
 
 - **Data Science Intern**, Mindteck India Pvt. Ltd.  
-  Developed ML models and ETL pipelines that reached 82% accuracy and reduced reporting effort by 60%.  
+  Created ML models and ETL pipelines that reached 82% accuracy while cutting reporting effort by 60%.  
   `Python` `scikit-learn` `ETL` `Supervised Learning`
 
-## Featured Projects
+## Selected Projects
 
 - **AI-Assisted Investing**  
-  Built an end-to-end equity research workflow that engineers market features, ranks stocks with ML and momentum signals, backtests monthly portfolios, and adds optional RAG-based insights.
+  Created an equity research workflow that combines feature engineering, stock ranking, backtesting, and optional RAG-based insight generation.
 
 - **AI Agent for Intelligent Job Search and Resume Optimization**  
-  Created a single-agent LLM workflow that filters job postings, ranks the best matches, and tailors resume content for a selected role.
+  Built a single-agent LLM workflow that filters job postings, ranks strong matches, and adapts resume content for specific roles.
 
 - **Multimodal Crime Report Analyzer**  
-  Built a modular crime analysis system that processes incident evidence across audio, documents, images, text, and video before combining the outputs.
+  Developed a modular analysis pipeline that processes evidence from audio, documents, images, text, and video before combining the results.
 
 - **Abstractive News Summarization with BART and Mistral**  
-  Built a long-form news summarization workflow using transformer models, LoRA fine-tuning, and metric-driven evaluation.
+  Developed a long-form news summarization pipeline using transformer models, LoRA fine-tuning, and evaluation-driven iteration.
 
 - **News Category Classification with BERT and RoBERTa**  
-  Fine-tuned transformer classifiers for news categorization with strong preprocessing and model comparison across BERT and RoBERTa.
+  Fine-tuned BERT and RoBERTa models for news classification with careful preprocessing and side-by-side model comparison.
 
 - **Flight Fare Prediction**  
-  Built regression models on historical U.S. airline pricing data to forecast fares and explain major pricing drivers.
+  Trained regression models on historical U.S. airline pricing data to forecast fares and identify the strongest price drivers.
 
 - **Chemicals in Beauty Industry Analysis Dashboard**  
-  Built a Tableau Public dashboard to track hazardous chemical reporting in beauty products, yearly volume, YoY movement, and hazard trait patterns.
+  Designed a Tableau dashboard to explore hazardous chemical reporting in beauty products, including yearly volume, YoY change, and hazard patterns.
 
-## Core Skills
+## What I Work With
 
 - **Data & Analytics:** Data analysis, business intelligence, dashboard development, SQL and query optimization
 - **AI & Machine Learning:** Applied ML, generative AI, RAG, agents, NLP, model evaluation and validation
@@ -93,7 +91,7 @@ I am currently completing my Master's in Engineering Data Science at the Univers
 
 ## Let's Connect
 
-I'm open to opportunities and collaborations across data science, machine learning, AI, and analytics engineering.
+I am open to roles and collaborations across data science, applied AI, machine learning, and analytics engineering.
 
 - Portfolio: [archana-ai.vercel.app](https://archana-ai.vercel.app)
 - Resume: [resume.pdf](https://archana-ai.vercel.app/resume.pdf)
