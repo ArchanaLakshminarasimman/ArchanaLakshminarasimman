@@ -93,6 +93,64 @@ I am currently pursuing my Master's in Engineering Data Science at the Universit
 - **Data Engineering:** ETL, data pipelines, workflow automation, backend systems, APIs, Docker
 - **Modeling & Experimentation:** Statistical analysis, experiment design, predictive modeling
 
+## Tools & Technologies
+
+### Programming
+
+<p>
+  <img src="https://archana-ai.vercel.app/tool-logos/Python.png" alt="Python" title="Python" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/sql.png" alt="SQL" title="SQL" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/R.png" alt="R" title="R" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/java.png" alt="Java" title="Java" width="52" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://archana-ai.vercel.app/tool-logos/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/MySQL.png" alt="MySQL" title="MySQL" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/mongodb.png" alt="MongoDB" title="MongoDB" width="52" />
+</p>
+
+### Data & Visualization
+
+<p>
+  <img src="https://archana-ai.vercel.app/tool-logos/powerbi.png" alt="Power BI" title="Power BI" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/Tableau.png" alt="Tableau" title="Tableau" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/Matplotlib.png" alt="Matplotlib" title="Matplotlib" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/seaborn.png" alt="Seaborn" title="Seaborn" width="52" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://archana-ai.vercel.app/tool-logos/pytorch.png" alt="PyTorch" title="PyTorch" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/Keras.png" alt="Keras" title="Keras" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/Scikit-learn.png" alt="Scikit-learn" title="Scikit-learn" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/huggingface.webp" alt="Hugging Face" title="Hugging Face" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/numpy.png" alt="NumPy" title="NumPy" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/pandas.png" alt="Pandas" title="Pandas" width="52" />
+</p>
+
+### Data Engineering & Cloud
+
+<p>
+  <img src="https://archana-ai.vercel.app/tool-logos/pyspark.jpeg" alt="PySpark" title="PySpark" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/hadoop.png" alt="Hadoop" title="Hadoop" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/Docker.png" alt="Docker" title="Docker" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/aws.png" alt="AWS" title="AWS" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/gcp.png" alt="GCP" title="GCP" width="52" />
+</p>
+
+### Collaboration
+
+<p>
+  <img src="https://archana-ai.vercel.app/tool-logos/Git.png" alt="Git" title="Git" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/jira.png" alt="Jira" title="Jira" width="52" />
+  <img src="https://archana-ai.vercel.app/tool-logos/confluence.jpg" alt="Confluence" title="Confluence" width="52" />
+</p>
+
 ## Education
 
 - **University of Houston**  
