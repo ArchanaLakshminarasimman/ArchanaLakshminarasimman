@@ -1,15 +1,102 @@
-<h1 align="center">Hi 👋, I'm Archana Lakshminarasimman</h1>
-<h3 align="center">Graduate Student in Master's in Engineering Data Science @ University of Houston, Texas</h3>
+# Archana Lakshminarasimman
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archanalakshminarasimman&label=Profile%20views&color=0e75b6&style=flat" alt="archanalakshminarasimman" /> </p>
+![Archana Portfolio Banner](https://archana-ai.vercel.app/og-image.svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archanalakshminarasimman" alt="archanalakshminarasimman" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <strong>Data Scientist • ML Engineer • GenAI Engineer</strong>
+  <br />
+  Designing end-to-end AI systems from data to deployment
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://archana-ai.vercel.app">Portfolio</a> |
+  <a href="https://archana-ai.vercel.app/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/archana-lakshminarasimman/">LinkedIn</a> |
+  <a href="https://github.com/ArchanaLakshminarasimman">GitHub</a> |
+  <a href="mailto:archana.lakshminarasimman@gmail.com">Email</a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=archanalakshminarasimman&show_icons=true&locale=en&layout=compact" alt="archanalakshminarasimman" /></p>
+## About Me
+
+I build AI systems that work in production, not just in notebooks.
+
+My work spans enterprise software at Temenos, biomedical NLP at Baylor College of Medicine, and large-scale analytics at the University of Houston. I focus on scalable ML pipelines, real-time analytics, and AI-driven decision systems with strong attention to reliability, evaluation, and usability for non-technical stakeholders.
+
+I am currently completing my Master's in Engineering Data Science at the University of Houston with a 4.0 GPA, and I am targeting roles in Data Science, Machine Learning, and Applied AI.
+
+## Snapshot
+
+| Area | Highlights |
+| --- | --- |
+| Experience | 6+ years across analytics, machine learning, and production software |
+| Projects | 7+ end-to-end projects spanning NLP, forecasting, analytics, and AI systems |
+| Organizations | 4+ organizations across enterprise, healthcare, research, and academia |
+| Location | Houston, Texas |
+
+## Experience Highlights
+
+- **Research Assistant - Data Analyst**, Office of Institutional Research, University of Houston  
+  Designed dashboards and analyzed 2M+ records to support executive decision-making across the university.  
+  `Power BI` `Tableau` `SQL` `SAS` `Python`
+
+- **Machine Learning Research Intern**, Baylor College of Medicine  
+  Built NLP pipelines and embedding workflows across 120K+ omics records, reducing manual curation time by 45%.  
+  `Python` `R` `GPT-4.1` `Gemini` `NLP` `Embeddings`
+
+- **Associate Product Engineer**, Temenos India Pvt. Ltd.  
+  Delivered 5 transaction monitoring systems and helped reduce production defects in regulated banking environments.  
+  `Java` `Temenos T24` `JBase` `SQL`
+
+- **Data Science Intern**, Mindteck India Pvt. Ltd.  
+  Developed ML models and ETL pipelines that reached 82% accuracy and reduced reporting effort by 60%.  
+  `Python` `scikit-learn` `ETL` `Supervised Learning`
+
+## Featured Projects
+
+- **AI-Assisted Investing**  
+  Built an end-to-end equity research workflow that engineers market features, ranks stocks with ML and momentum signals, backtests monthly portfolios, and adds optional RAG-based insights.
+
+- **AI Agent for Intelligent Job Search and Resume Optimization**  
+  Created a single-agent LLM workflow that filters job postings, ranks the best matches, and tailors resume content for a selected role.
+
+- **Multimodal Crime Report Analyzer**  
+  Built a modular crime analysis system that processes incident evidence across audio, documents, images, text, and video before combining the outputs.
+
+- **Abstractive News Summarization with BART and Mistral**  
+  Built a long-form news summarization workflow using transformer models, LoRA fine-tuning, and metric-driven evaluation.
+
+- **News Category Classification with BERT and RoBERTa**  
+  Fine-tuned transformer classifiers for news categorization with strong preprocessing and model comparison across BERT and RoBERTa.
+
+- **Flight Fare Prediction**  
+  Built regression models on historical U.S. airline pricing data to forecast fares and explain major pricing drivers.
+
+- **Chemicals in Beauty Industry Analysis Dashboard**  
+  Built a Tableau Public dashboard to track hazardous chemical reporting in beauty products, yearly volume, YoY movement, and hazard trait patterns.
+
+## Core Skills
+
+- **Data & Analytics:** Data analysis, business intelligence, dashboard development, SQL and query optimization
+- **AI & Machine Learning:** Applied ML, generative AI, RAG, agents, NLP, model evaluation and validation
+- **Data Engineering:** ETL, data pipelines, workflow automation, backend systems, APIs, Docker
+- **Modeling & Experimentation:** Statistical analysis, experiment design, predictive modeling
+
+## Education
+
+- **University of Houston**  
+  Master's in Engineering Data Science, August 2024 - May 2026  
+  GPA: 4.0 / 4.0
+
+- **PSG Institute of Technology and Applied Research**  
+  Bachelor's in Computer Science and Engineering, August 2016 - May 2020  
+  GPA: 3.6 / 4.0
+
+## Let's Connect
+
+I'm open to opportunities and collaborations across data science, machine learning, AI, and analytics engineering.
+
+- Portfolio: [archana-ai.vercel.app](https://archana-ai.vercel.app)
+- Resume: [resume.pdf](https://archana-ai.vercel.app/resume.pdf)
+- LinkedIn: [archana-lakshminarasimman](https://www.linkedin.com/in/archana-lakshminarasimman/)
+- GitHub: [ArchanaLakshminarasimman](https://github.com/ArchanaLakshminarasimman)
+- Email: [archana.lakshminarasimman@gmail.com](mailto:archana.lakshminarasimman@gmail.com)
