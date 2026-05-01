@@ -1,18 +1,32 @@
-# Archana Lakshminarasimman
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="Archana Lakshminarasimman hero banner" width="100%" />
+</p>
 
 <p align="center">
-  <strong>Data Scientist | ML Engineer | GenAI Engineer</strong>
+  <a href="https://archana-ai.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://archana-ai.vercel.app/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/archana-lakshminarasimman/">
+    <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ArchanaLakshminarasimman">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:archana.lakshminarasimman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E76F51?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Master's in Engineering Data Science @ University of Houston</strong>
   <br />
-  Building reliable ML systems, analytics workflows, and AI tools for real-world use
+  Open to Data Science, ML Engineering, GenAI, and Analytics Engineering opportunities
 </p>
 
-<p align="center">
-  <a href="https://archana-ai.vercel.app">Portfolio</a> |
-  <a href="https://archana-ai.vercel.app/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/archana-lakshminarasimman/">LinkedIn</a> |
-  <a href="https://github.com/ArchanaLakshminarasimman">GitHub</a> |
-  <a href="mailto:archana.lakshminarasimman@gmail.com">Email</a>
-</p>
+---
 
 ## About Me
 
