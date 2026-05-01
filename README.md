@@ -63,10 +63,15 @@ I am currently pursuing my Master's in Engineering Data Science at the Universit
   Created ML models and ETL pipelines that reached 82% accuracy while cutting reporting effort by 60%.  
   `Python` `scikit-learn` `ETL` `Supervised Learning`
 
-## Selected Projects
+## Featured Project
 
-- **AI-Assisted Investing**  
-  Created an equity research workflow that combines feature engineering, stock ranking, backtesting, and optional RAG-based insight generation.
+### AI-Assisted Investing
+
+An end-to-end finance project focused on equity research, signal generation, and portfolio decision support. It combines market feature engineering, ML-based ranking, backtesting, and optional RAG-based insight generation in a single workflow.
+
+`Python` `Pandas` `scikit-learn` `XGBoost` `Backtesting` `RAG`
+
+## Selected Projects
 
 - **AI Agent for Intelligent Job Search and Resume Optimization**  
   Built a single-agent LLM workflow that filters job postings, ranks strong matches, and adapts resume content for specific roles.
