@@ -71,25 +71,33 @@ An end-to-end finance project focused on equity research, signal generation, and
 
 `Python` `Pandas` `scikit-learn` `XGBoost` `Backtesting` `RAG`
 
+Links: [GitHub Repo](https://github.com/ArchanaLakshminarasimman/ai-assisted-investing)
+
 ## Selected Projects
 
 - **AI Agent for Intelligent Job Search and Resume Optimization**  
   Built a single-agent LLM workflow that filters job postings, ranks strong matches, and adapts resume content for specific roles.
+  [GitHub Repo](https://github.com/ArchanaLakshminarasimman/JobSearch_Agent)
 
 - **Multimodal Crime Report Analyzer**  
   Developed a modular analysis pipeline that processes evidence from audio, documents, images, text, and video before combining the results.
+  [GitHub Repo](https://github.com/ArchanaLakshminarasimman/MultimodalCrimeReportAnalyzer)
 
 - **Abstractive News Summarization with BART and Mistral**  
   Developed a long-form news summarization pipeline using transformer models, LoRA fine-tuning, and evaluation-driven iteration.
+  [GitHub Repo](https://github.com/ArchanaLakshminarasimman/text-summary-project)
 
 - **News Category Classification with BERT and RoBERTa**  
   Fine-tuned BERT and RoBERTa models for news classification with careful preprocessing and side-by-side model comparison.
+  [GitHub Repo](https://github.com/ArchanaLakshminarasimman/NewsCategoryClassification)
 
 - **Flight Fare Prediction**  
   Trained regression models on historical U.S. airline pricing data to forecast fares and identify the strongest price drivers.
+  [GitHub Repo](https://github.com/ArchanaLakshminarasimman/FlightFarePrediction)
 
 - **Chemicals in Beauty Industry Analysis Dashboard**  
   Designed a Tableau dashboard to explore hazardous chemical reporting in beauty products, including yearly volume, YoY change, and hazard patterns.
+  [Tableau Dashboard](https://public.tableau.com/views/ChemicalsinBeautyIndustryAnalysisDashboard/Yearly_Hazard_View?:showVizHome=no)
 
 ## What I Work With
 
