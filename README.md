@@ -36,6 +36,12 @@ My background sits at the intersection of software engineering, analytics, and a
 
 I am currently pursuing my Master's in Engineering Data Science at the University of Houston with a 4.0 GPA. I am most excited by opportunities in data science, ML engineering, GenAI, and analytics engineering where strong technical work translates into clear business or user impact.
 
+## What Sets Me Apart
+
+- I build **end-to-end systems**, not just models  
+- I focus on **real-world deployment and impact**  
+- I combine **AI, data engineering, and analytics** into usable products  
+
 ## Quick Highlights
 
 | Area | Highlights |
