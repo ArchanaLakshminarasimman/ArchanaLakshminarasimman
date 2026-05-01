@@ -112,3 +112,7 @@ I am open to roles and collaborations across data science, applied AI, machine l
 - LinkedIn: [archana-lakshminarasimman](https://www.linkedin.com/in/archana-lakshminarasimman/)
 - GitHub: [ArchanaLakshminarasimman](https://github.com/ArchanaLakshminarasimman)
 - Email: [archana.lakshminarasimman@gmail.com](mailto:archana.lakshminarasimman@gmail.com)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=archanalakshminarasimman&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile view counter" />
+</p>
